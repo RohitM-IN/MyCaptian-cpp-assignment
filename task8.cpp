@@ -30,9 +30,9 @@ int main()
 	cin>>s2;
 
 	if(anagram(s1,s2))
-		cout<<"the strings '"<<s1<<"' and '"<<s2<<"' are anagrams of each other."<<endl;
+		cout<<"the strings '"<< s1 <<"' and '"<< s2 <<"' are anagrams of each other."<<endl;
 	else
-		cout<<"the strings '"<<s1<<"' and '"<<s2<<"' are not in anagrams of each other."<<endl;
+		cout<<"the strings '"<< s1 <<"' and '"<< s2 <<"' are not in anagrams of each other."<<endl;
 
 	return 0;
 }
