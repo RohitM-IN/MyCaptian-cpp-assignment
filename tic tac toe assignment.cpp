@@ -592,7 +592,7 @@ input:
             cout<<"Well Played!\nBut you couldn't beat me this time too\n";
         else
             cout<<"Well Played!\nIt is a tie.\n";
-cout << string( 100, '\n' );
+//cout << string( 100, '\n' );
     }
     char c;
     strcpy(str,"Wanna play again ");
