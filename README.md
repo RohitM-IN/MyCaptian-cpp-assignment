@@ -1,4 +1,4 @@
-# MyCaptian-c-assignment
+# MyCaptian-c++-assignment
 task 1:
 Write a C++ program to print ASCII value of a character.
 Hint -> Assign the value of a character to an integer and print it out.
