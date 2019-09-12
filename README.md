@@ -42,3 +42,6 @@ Days: 3
 
 Task 10:
 Write a C++ program to convert a string to lowercase.
+
+Task 11:
+Optional Project Tic Tac Toe
